@@ -1,0 +1,22 @@
+{
+    "name": "java-cp-snippets",
+    "displayName": "java cp snippets",
+    "description": "simple snippets for competitive programming in Java 8",
+    "version": "0.0.1",
+    "publisher": "Aashish",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "java",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
