@@ -15,6 +15,7 @@ It create starter template for java which is useful for any competitive programm
 
 ![alt text](go_gif.gif)
 
+>## Don't forgot to change the classname as the File name.
 
 ## Release Notes
 
