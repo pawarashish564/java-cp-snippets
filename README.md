@@ -7,6 +7,10 @@ It create starter template for java which is useful for any programming contests
 - Adds Reader class 
 - Adds main method with Reader and PrintWriter instance.
 
+## Usage 
+
+- Type !go to ready set go. 
+
 ## Release Notes
 
 Users appreciate release notes as you update your extension.

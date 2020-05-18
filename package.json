@@ -3,8 +3,13 @@
     "displayName": "java cp snippets",
     "description": "simple snippets for competitive programming in Java 8",
     "version": "0.0.1",
-    "publisher": "Aashish",
+    "publisher": "aashishpawar2",
+    
     "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/pawarashish564/java-cp-snippets"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
