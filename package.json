@@ -2,7 +2,7 @@
     "name": "java-cp-snippets",
     "displayName": "java cp snippets",
     "description": "simple snippets for competitive programming in Java 8",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "Aashish",
     "icon": "icon.png",
     "repository": {
