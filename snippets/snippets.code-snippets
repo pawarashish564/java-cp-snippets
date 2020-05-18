@@ -1,6 +1,6 @@
 {
     "Java CP starter template": {
-        "prefix": "go",
+        "prefix": "!go",
         "body":[     
             "import java.io.*;",
             "import java.util.*;",
@@ -28,7 +28,7 @@
             "            byte[] buf = new byte[1000000]; // line length",
             "            int cnt = 0, c;",
             "            while ((c = read()) != -1) {",
-            "                if (c == '\n')",
+            "                if (c == '\\n')",
             "                    break;",
             "                buf[cnt++] = (byte) c;",
             "            }",
@@ -127,8 +127,8 @@
             "        int n = ob.nextInt();",
             "        int k = ob.nextInt();",
             "        PrintWriter p = new PrintWriter(System.out);",
-            "        p.println(\"Lets GO \")",
-            "        p.close()",
+            "        p.println(\"Lets GO \");",
+            "        p.close();",
             "    }",
             "}",
             
