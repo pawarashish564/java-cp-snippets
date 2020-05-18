@@ -1,6 +1,6 @@
 {
     "Java CP starter template": {
-        "prefix": "!go",
+        "prefix": "go",
         "body":[     
             "import java.io.*;",
             "import java.util.*;",

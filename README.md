@@ -9,7 +9,7 @@ It create starter template for java which is useful for any programming contests
 
 ## Usage 
 
-- Type !go to ready set go. 
+- Type go to ready set go. 
 
 ## Release Notes
 
@@ -19,6 +19,9 @@ Users appreciate release notes as you update your extension.
 
 Initial release of java cp snippets extension
 
+### 1.0.1 
+
+Initial Bug Fix 
 -----------------------------------------------------------------------------------------------------------
 <!-- * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown) -->
 <!-- * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/) -->
